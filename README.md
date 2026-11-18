@@ -19,9 +19,9 @@
 | | Project | What it's about | Tech |
 |---|---|---|---|
 | 🎲 | **StatPlay** | An interactive statistics simulator where students can play with probability distributions, standard deviation and sample sizes | Python · NumPy · Streamlit |
-| 😊 | **Beyond Numbers** | What makes people happy? Exploring how happiness relates to income, life expectancy and social support across countries | R · ggplot2 · Python |
+| 😊 | **[Beyond Numbers](https://github.com/Daliilaa/beyond_numbers)** | What makes people happy? Exploring how happiness relates to income, life expectancy and social support across countries | R · ggplot2 · Python |
 
-<sub>🌷 Coming to GitHub soon!</sub>
+<sub>🌷 StatPlay is coming to GitHub soon!</sub>
 
 <p align="center">💖 ✨ 🌷 ✨ 💖</p>
 
